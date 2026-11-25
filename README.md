@@ -17,4 +17,4 @@ Attendly matters because it goes beyond basic attendance recording. It combines 
 **-** Below-75% Attendance Alerts  
 **-** Excel & PDF Report Export  
 
-**Technologies: ** C#, Windows Forms, .NET Framework, Microsoft SQL Server
+**Technologies:** C#, Windows Forms, .NET Framework, Microsoft SQL Server
